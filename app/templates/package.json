@@ -1,0 +1,16 @@
+{
+  "name": "generator-bandit-web-starter-kit",
+  "version": "1.0.0",
+  "description": "A frontend generator for web projects tailwind, js,media queries, entry html",
+  "main": "index.js",
+  "author": "Kofi Ramos Amoussou <karsoft92@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^5.4.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
+  }
+}
